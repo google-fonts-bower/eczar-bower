@@ -1,0 +1,17 @@
+{
+    "name": "eczar-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Rosetta"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/eczar-bower.git"
+    },
+    "description": "Eczar font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
